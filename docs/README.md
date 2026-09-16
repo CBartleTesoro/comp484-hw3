@@ -7,5 +7,5 @@ This project was part of the COMP 484 reference site homework 3. The assignment 
 ## Live Demo
 
 You can view the published website here:  
-[Live Website on GitHub Pages](https://cbartletesoro.github.io/comp484-hw2/)
+[Live Website on GitHub Pages](https://cbartletesoro.github.io/comp484-hw3/)
 
